@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 // This is an example for importing
 import { helloWorld } from "./constants"
 
